@@ -1,0 +1,4 @@
+﻿item_name,current_stock,avg_monthly_usage,unit_price,lead_time_days,contract_available,expected_delivery,additional_requests,planned_purchase_qty,criticality,usage_2025_10,usage_2025_11,usage_2025_12,usage_2026_01,usage_2026_02,usage_2026_03,usage_2026_04,usage_2026_05,usage_2026_06,usage_2026_07,usage_2026_08,usage_2026_09
+Парацетамол (пример),120,80,12.5,14,0,0,0,0,высокая,72,78,82,75,80,84,79,86,88,83,80,80
+Физраствор (пример),900,500,18.0,10,200,100,0,0,обычная,450,470,490,510,500,520,480,510,530,500,510,500
+Перчатки (пример),80,150,4.2,21,100,0,20,0,обычная,120,130,145,150,155,140,160,170,165,150,145,150
